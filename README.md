@@ -1,1 +1,1 @@
-The file is served as a practice record for me.
+These files serve as the SQL practice record for me.
